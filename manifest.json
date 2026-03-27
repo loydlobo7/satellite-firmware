@@ -1,5 +1,5 @@
 {
   "version": "2026.2.2",
-  "firmware_url": "https://raw.githubusercontent.com/loyldobo7/satellite-firmware/main/firmware/v2026.2.2.bin",
-  "md5": "abc123456789"
+  "firmware_url": "https://raw.githubusercontent.com/loyldobo7/satellite-firmware/main/firmware/hw-cb-sat-pbl.ota.bin",
+  "md5": "7ab703d408fc53124d7dc3694c3e1e7b"
 }
